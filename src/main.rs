@@ -1,4 +1,3 @@
-#![feature(box_syntax, box_patterns)]
 use std::cmp::Ordering;
 use std::cmp::max;
 use std::io::{self,Write};
